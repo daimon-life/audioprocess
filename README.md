@@ -8,3 +8,6 @@ audioprocess
 sox --i
 sox --help-effect all
 sox --help-effect bandpass
+
+libsndfile
+http://www.mega-nerd.com/libsndfile/files/

@@ -1,0 +1,23 @@
+LIBRARY  webrtc_ns.dll
+EXPORTS
+
+WebRtcNs_Create         @1
+WebRtcNs_Free           @2
+WebRtcNs_Init           @3
+WebRtcNs_set_policy     @4
+WebRtcNs_Analyze        @5
+WebRtcNs_Process        @6
+WebRtcNs_prior_speech_probability @7
+WebRtcNs_noise_estimate @8
+WebRtcNs_num_freq       @9
+
+WebRtcNsx_Create        @11
+WebRtcNsx_Free          @12
+WebRtcNsx_Init          @13
+WebRtcNsx_set_policy    @14
+WebRtcNsx_Process       @15
+WebRtcNsx_noise_estimate @16
+WebRtcNsx_num_freq      @17
+
+WebRtcSpl_AnalysisQMF   @21
+WebRtcSpl_SynthesisQMF  @22

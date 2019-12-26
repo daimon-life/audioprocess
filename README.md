@@ -10,10 +10,14 @@ sox --help-effect all
 sox --help-effect bandpass
 
 libsndfile
-http://www.mega-nerd.com/libsndfile/files/
+http://www.mega-nerd.com/libsndfile/files/<br/>
 
 ### TTS系统
-中国科大讯飞
-微软亚洲研究院的木兰系统
-贝尔实验室https://s3-us-west-2.amazonaws.com/belllabs-microsite-tts/index.html   
-IBM的ViaVoice
+中国科大讯飞<br/>
+微软亚洲研究院的木兰系统<br/>
+贝尔实验室https://s3-us-west-2.amazonaws.com/belllabs-microsite-tts/index.html   <br/>
+IBM的ViaVoice<br/>
+<br/>
+rrnoise相关网站<br/>
+https://xiph.org<br/>
+https://people.xiph.org/~xiphmont/demo/index.html<br/>

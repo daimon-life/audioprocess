@@ -21,3 +21,6 @@ IBM的ViaVoice<br/>
 rrnoise相关网站<br/>
 https://xiph.org<br/>
 https://people.xiph.org/~xiphmont/demo/index.html<br/>
+
+
+libsonic
